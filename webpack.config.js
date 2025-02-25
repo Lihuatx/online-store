@@ -55,6 +55,7 @@ module.exports = {
 		inline: true, // 实时刷新
 		hot: true,
 		port: 8089,
+		host: '0.0.0.0',
     // https: true,
 		proxy:Proxy
 	},
