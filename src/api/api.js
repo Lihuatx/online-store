@@ -2,7 +2,7 @@ import axios from 'axios';
 
 
 let host = 'http://shop.projectsedu.com';
-let goodsUrl = "http://124.223.201.78:8022/g"
+let goodsUrl = "http://127.0.0.1:23941/g"
 let orderUrl = "http://124.223.201.78:8023/o"
 let userUrl = "http://124.223.201.78:8021/u"
 let userOpUrl = "http://124.223.201.78:8027/up"
