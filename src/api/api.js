@@ -2,10 +2,10 @@ import axios from 'axios';
 
 
 let host = 'http://shop.projectsedu.com';
-let goodsUrl = "http://172.26.226.4:8022/"
-let orderUrl = "http://172.26.226.4:8023/"
-let userUrl = "http://172.26.226.4:8021/"
-let userOpUrl = "http://172.26.226.4:8027/"
+let goodsUrl = "http://172.26.226.4:8022"
+let orderUrl = "http://172.26.226.4:8023"
+let userUrl = "http://172.26.226.4:8021"
+let userOpUrl = "http://172.26.226.4:8027"
 export const ossUrl = "http://172.26.226.4:8029"
 
 // let host = 'http://127.0.0.1:8000';
